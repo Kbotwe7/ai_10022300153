@@ -1,0 +1,11 @@
+# CS4241 — Student: REPLACE_WITH_FULL_NAME | Index: REPLACE_WITH_INDEX
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/raw/*
+!data/raw/.gitkeep
+data/index/*
+!data/index/.gitkeep
+logs/
