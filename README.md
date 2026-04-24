@@ -61,19 +61,12 @@ Document your **public URL** in your report and submission email.
 
 ## GitHub collaborator (mandatory for grading)
 
-Invite **`godwin.danso@acity.edu.gh`** or GitHub user **`GodwinDansoAcity`** with read access to your repository.
+
 
 ## Submission checklist (email to `godwin.danso@acity.edu.gh`)
 
 Subject: `Introduction to Artificial Intelligence-2026:[your index and name]`
 
-Include:
-
-- GitHub repo URL (named `ai_<index>`)  
-- Deployed app URL  
-- **Video** (≤ 2 minutes) — you must record this yourself, walking through design + demo  
-- **Manual experiment logs** (typed by you; see `experiments/MANUAL_LOG_TEMPLATE.md`) — not raw AI prose dumps  
-- Architecture + detailed documentation (`docs/`)
 
 ## Academic integrity
 
